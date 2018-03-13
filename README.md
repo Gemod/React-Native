@@ -13,12 +13,16 @@ Read the following guide https://facebook.github.io/react-native/docs/getting-st
 
 <div align="center">
 	<p align="center">
-	  <img src="iosview.jpg" width="200"/>
+	  <img src="iosview.jpg" width="150"/>
 	   <br>
 		IOS view	
-		<br>
+	  </br>
+	<img src="iphone_view.jph" width="150"/>
+	<br>
+		IOS view	
+	  </br>
 	</p>
 	<p>
-	  <img src="androidview.jpg" width="200"/><br>Android view<br>
+	  <img src="androidview.jpg" width="150"/><br>Android view<br>
 	</p>
 </div>
