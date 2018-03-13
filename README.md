@@ -14,10 +14,7 @@ Read the following guide https://facebook.github.io/react-native/docs/getting-st
 <div align="center">
 	<p align="center">
 	  <img src="iosview.jpg" width="150"/>
-	   <br>
-		IOS view	
-	  </br>
-	<img src="iphone_view.jph" width="150"/>
+	<img src="iphone_view.jpg" width="150"/>
 	<br>
 		IOS view	
 	  </br>
